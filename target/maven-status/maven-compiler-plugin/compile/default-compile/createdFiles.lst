@@ -1,0 +1,6 @@
+coverFoxBasePackage\BaseClass.class
+coverFoxPOMPackage\CoverFoxAddressDetailsPage.class
+coverFoxPOMPackage\CoverFoxMemberDetailsPage.class
+coverFoxPOMPackage\CoverFoxHealthPlanPage.class
+coverFoxPOMPackage\CoverFoxHomePage.class
+coverFoxPOMPackage\CoverFoxInsuranceResultPage.class
