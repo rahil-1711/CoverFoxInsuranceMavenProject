@@ -102,7 +102,9 @@ public class TestExecutionUsingTestNg1 extends BaseClass{
 	  boolean sortFilterIsDisplayed = resultPage.sortPlanDisplayed();
 	  logger.info("validating sort filter");
 	  Assert.assertTrue(sortFilterIsDisplayed, " sort filter is not displayed , tc fails");
-	  Utility3.takeScreenShot(driver, "validateSortFilter");
+	 // Utility3.takeScreenShot(driver, "validateSortFilter");
+	  //(I (Manisha)  just commented the above screenshot line,please check and confirm)
+	  //...
   }
   
   @AfterClass
